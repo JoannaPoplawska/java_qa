@@ -1,3 +1,5 @@
+package kurs.qa;
+
 public class Point {
 
     public double x;

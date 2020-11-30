@@ -1,4 +1,4 @@
-MyFirstProgram.java
- MyFirstProgram
 Point.java
  Point
+kurs/qa/MyFirstProgram.java
+ kurs.qa.MyFirstProgram
