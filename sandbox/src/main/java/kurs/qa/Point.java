@@ -16,10 +16,10 @@ public class Point {
     }
 
     public static double distance(Point p1, Point p2) {
-        double dx = p2.x - p1.x;
-        double dy = p2.y - p2.x;
+        double x = p2.x - p1.x;
+        double y = p2.y - p2.x;
         double distance;
-        distance = Math.sqrt(dx * dx + dy * dy);
+        distance = Math.sqrt(x * x + y * y);
         return distance;
 
     }
