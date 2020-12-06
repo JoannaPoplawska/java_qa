@@ -4,3 +4,5 @@ ru/stqa/pfr/adressbook/GroupData.java
  ru.stqa.pfr.adressbook.GroupData
 ru/stqa/pfr/adressbook/ClassCreationTests.java
  ru.stqa.pfr.adressbook.ClassCreationTests
+ru/stqa/pfr/adressbook/ContactDetails.java
+ ru.stqa.pfr.adressbook.ContactDetails
