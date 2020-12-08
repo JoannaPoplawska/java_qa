@@ -1,8 +1,12 @@
-ru/stqa/pfr/adressbook/GroupCreationTests.java
- ru.stqa.pfr.adressbook.GroupCreationTests
-ru/stqa/pfr/adressbook/GroupData.java
- ru.stqa.pfr.adressbook.GroupData
 ru/stqa/pfr/adressbook/ClassCreationTests.java
  ru.stqa.pfr.adressbook.ClassCreationTests
+ru/stqa/pfr/adressbook/TestBase.java
+ ru.stqa.pfr.adressbook.TestBase
 ru/stqa/pfr/adressbook/ContactDetails.java
  ru.stqa.pfr.adressbook.ContactDetails
+ru/stqa/pfr/adressbook/GroupData.java
+ ru.stqa.pfr.adressbook.GroupData
+ru/stqa/pfr/adressbook/GroupDeletionTests.java
+ ru.stqa.pfr.adressbook.GroupDeletionTests
+ru/stqa/pfr/adressbook/GroupCreationTests.java
+ ru.stqa.pfr.adressbook.GroupCreationTests
