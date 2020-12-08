@@ -1,12 +1,14 @@
-ru/stqa/pfr/adressbook/ClassCreationTests.java
- ru.stqa.pfr.adressbook.ClassCreationTests
-ru/stqa/pfr/adressbook/TestBase.java
- ru.stqa.pfr.adressbook.TestBase
-ru/stqa/pfr/adressbook/ContactDetails.java
- ru.stqa.pfr.adressbook.ContactDetails
-ru/stqa/pfr/adressbook/GroupData.java
- ru.stqa.pfr.adressbook.GroupData
-ru/stqa/pfr/adressbook/GroupDeletionTests.java
- ru.stqa.pfr.adressbook.GroupDeletionTests
-ru/stqa/pfr/adressbook/GroupCreationTests.java
- ru.stqa.pfr.adressbook.GroupCreationTests
+ru/stqa/pfr/adressbook/tests/GroupData.java
+ ru.stqa.pfr.adressbook.tests.GroupData
+ru/stqa/pfr/adressbook/tests/GroupCreationTests.java
+ ru.stqa.pfr.adressbook.tests.GroupCreationTests
+ru/stqa/pfr/adressbook/tests/GroupDeletionTests.java
+ ru.stqa.pfr.adressbook.tests.GroupDeletionTests
+ru/stqa/pfr/adressbook/tests/ContactDetails.java
+ ru.stqa.pfr.adressbook.tests.ContactDetails
+ru/stqa/pfr/adressbook/appmanager/ApplicationManager.java
+ ru.stqa.pfr.adressbook.appmanager.ApplicationManager
+ru/stqa/pfr/adressbook/tests/ClassCreationTests.java
+ ru.stqa.pfr.adressbook.tests.ClassCreationTests
+ru/stqa/pfr/adressbook/model/TestBase.java
+ ru.stqa.pfr.adressbook.model.TestBase

@@ -1,4 +1,4 @@
-package ru.stqa.pfr.adressbook;
+package ru.stqa.pfr.adressbook.tests;
 
 public class GroupData {
     private final String name;
