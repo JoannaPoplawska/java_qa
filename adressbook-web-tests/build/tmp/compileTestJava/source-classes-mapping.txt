@@ -14,6 +14,8 @@ ru/stqa/pfr/adressbook/appmanager/ApplicationManager.java
  ru.stqa.pfr.adressbook.appmanager.ApplicationManager
 ru/stqa/pfr/adressbook/appmanager/SessionsHelper.java
  ru.stqa.pfr.adressbook.appmanager.SessionsHelper
+ru/stqa/pfr/adressbook/appmanager/HelperBase.java
+ ru.stqa.pfr.adressbook.appmanager.HelperBase
 ru/stqa/pfr/adressbook/model/TestBase.java
  ru.stqa.pfr.adressbook.model.TestBase
 ru/stqa/pfr/adressbook/appmanager/GroupHelper.java
