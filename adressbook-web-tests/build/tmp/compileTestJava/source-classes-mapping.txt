@@ -6,16 +6,18 @@ ru/stqa/pfr/adressbook/tests/ClassCreationTests.java
  ru.stqa.pfr.adressbook.tests.ClassCreationTests
 ru/stqa/pfr/adressbook/appmanager/NavigationHelper.java
  ru.stqa.pfr.adressbook.appmanager.NavigationHelper
+ru/stqa/pfr/adressbook/appmanager/HelperBase.java
+ ru.stqa.pfr.adressbook.appmanager.HelperBase
+ru/stqa/pfr/adressbook/appmanager/SessionsHelper.java
+ ru.stqa.pfr.adressbook.appmanager.SessionsHelper
+ru/stqa/pfr/adressbook/tests/GroupModificationTests.java
+ ru.stqa.pfr.adressbook.tests.GroupModificationTests
 ru/stqa/pfr/adressbook/tests/GroupCreationTests.java
  ru.stqa.pfr.adressbook.tests.GroupCreationTests
 ru/stqa/pfr/adressbook/tests/GroupDeletionTests.java
  ru.stqa.pfr.adressbook.tests.GroupDeletionTests
 ru/stqa/pfr/adressbook/appmanager/ApplicationManager.java
  ru.stqa.pfr.adressbook.appmanager.ApplicationManager
-ru/stqa/pfr/adressbook/appmanager/SessionsHelper.java
- ru.stqa.pfr.adressbook.appmanager.SessionsHelper
-ru/stqa/pfr/adressbook/appmanager/HelperBase.java
- ru.stqa.pfr.adressbook.appmanager.HelperBase
 ru/stqa/pfr/adressbook/model/TestBase.java
  ru.stqa.pfr.adressbook.model.TestBase
 ru/stqa/pfr/adressbook/appmanager/GroupHelper.java
