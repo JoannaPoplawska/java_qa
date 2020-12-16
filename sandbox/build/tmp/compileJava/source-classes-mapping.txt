@@ -2,3 +2,5 @@ kurs/qa/MyFirstProgram.java
  kurs.qa.MyFirstProgram
 kurs/qa/Point.java
  kurs.qa.Point
+kurs/qa/Equation.java
+ kurs.qa.Equation

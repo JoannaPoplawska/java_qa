@@ -1,2 +1,4 @@
 kurs/qa/PointTest.java
  kurs.qa.PointTest
+kurs/qa/EquationTests.java
+ kurs.qa.EquationTests
